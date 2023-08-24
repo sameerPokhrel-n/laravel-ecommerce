@@ -12,7 +12,7 @@
     {{-- @include('includes.mobile-menu') --}}
     <div class="site">
         <!-- mobile site__header -->
-        @include('includes.mobile-site-header')
+        {{-- @include('includes.mobile-site-header') --}}
         <!-- desktop site__header -->
         @include('includes.desktop-site-header')
         <!-- site__body -->
